@@ -52,5 +52,3 @@ By integrating these features, we can elevate the visual output and gain greater
     <a href="https://replicate.com/deforum-art/deforum-stable-diffusion"><img alt="Replicate" src="https://replicate.com/deforum-art/deforum-stable-diffusion/badge"></a>  
 </p>
 
-
-`this readme was written in collaboration with chat-gpt`
